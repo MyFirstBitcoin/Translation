@@ -1,0 +1,31 @@
+Hieronder een overzicht van veelgebruikte Bitcoin termen om het consequent in het NL te vertalen.
+Vul aan waar/wanneer nodig (in alfabetische volgorde).
+
+Bitcoin Blockchain - Bitcoin Blockchain
+Bitcoin node - Bitcoin node
+Bitcoin miners/mining - Bitcoin miners/mining
+Bitcoin wallet - Bitcoin wallet
+Bitcoin ledger - Bitcoin grootboek
+
+(non)custodial - (non)custodial
+
+central bank digital currency (CBDC) - digitaal centralebankgeld
+
+fiat currency - fiat geld
+
+Digital assets - digitale bezittingen
+
+Genesis-block - Genesis-blok
+
+Key concepts - begrippen of concepten
+
+Lightning network - Lightning netwerk
+Lightning transactions - Lightning transacties
+
+Private keys - privésleutels
+
+Payment rails - Betaal infrastructuur
+
+Third party - 3e partij
+
+Whitepaper - Whitepaper
