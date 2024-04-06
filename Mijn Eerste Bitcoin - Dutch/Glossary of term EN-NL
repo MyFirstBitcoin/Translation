@@ -1,5 +1,5 @@
-English - Dutch
 (non)custodial - (non)custodial
+2FA - 2FA
 51% Attack - 51% Aanval
 A store of value - Een opslagplaats van waarde
 Acceptability - Aanvaardbaar(heid)
@@ -7,25 +7,26 @@ Activity: Class Exercise - Oefening in de klas:
 Altcoin Season - Altcoin seizoen
 Altcoins - Altcoins
 Atomic Swap - Atomic Swap
+Austrian economics - Oostenrijkse school
 B-Money - B-Money
 Bartering - Ruilhandel
+Basket of Goods - Mand met goederen
+Bearer asset - bezitsactivum
 Bit Gold - Bit Gold
 Bitcoin Blockchain - Bitcoin Blockchain
-Bitcoin ledger - Bitcoin grootboek
 Bitcoin Lightning Network - Bitcoin Lightning Netwerk
+Bitcoin ledger - Bitcoin grootboek
 Bitcoin miners - Bitcoin miners
 Bitcoin mining - Bitcoin mining
 Bitcoin node - Bitcoin node
 Bitcoin wallet - Bitcoin wallet
-block - block
 Block Explorer - Block Explorer
-Block reward - Block reward
 Block Subsidy - Block subsidy
-blockchain - blockchain
-blockchains - blockchains
+Block reward - Block reward
 Broadcast - Broadcast
 Capital Controls - Kapitaalbeperkingen
 Censorship Resistant - Bestand tegen censuur
+Central Bank (Fed) - Centrale Bank
 Central Bank Digital Currencies - Digitaal centralebankgeld
 Centraliseerde systemen - Gecentraliseerde systemen
 Centralized Exchanges - Gecentraliseerde exchanges
@@ -44,54 +45,50 @@ Cryptocurrencies - Crypto valuta
 Custodial - Custodial
 Custodial Wallets - Custodial Wallets
 Cypherpunks - Cypherpunks
+DYOR - Doe Je Eigen Onderzoek (DYOR)
 Debasement - Geldontwaarding
 Debt Burden - Schuldenlast
-Decentralized Autonomous Organization - Decentralized Autonomous Organization
+Decentralized Autonomous Organization - Decentrale Autonome Organisatie
 Decentralized Currency - Gedecentraliseerd geld
 Decentralized Finance - Decentralized Finance
-Decentralized ledger - Gedecentraliseerd grootboek
 Decentralized Systems - Gedecentraliseerde systemen
+Decentralized ledger - Gedecentraliseerd grootboek
 Difficulty Adjustment - Difficulty Adjustment
 DigiCash - DigiCash
 Digital Asset - Digitaal bezit
 Digital assets - Digitale bezittingen
 Digital currencies - Digitale valuta
 Digital money - Digitaal geld
-digital signature - digitale handtekening
 Distributed Ledger - Gedistribueerd Grootboek
 Divisibility - Deelbaar(heid)
 Don’t Trust, Verify - Don’t Trust, Verify
-Double Coincidence of Wants - Double Coincidence of Wants
+Double Coincidence of Wants - Dubbel toeval van wensen
 Double Spend - Double Spend
 Durability - Duurzaam(heid)
-DYOR - Doe Je Eigen Onderzoek (DYOR)
-e- Gold - e- Gold
 E-Cash - E-Cash
-e-Gold - e-Gold
 Electronic currencies - Digitale valuta
 Established History - Gevestigde geschiedenis
 Exchange Rate - Exchange Rate
+Exchange rate policies - Wisselkoersbeleid
 Expansionary fiscal policy - Expansief begrotingsbeleid
-Fiat currency - Fiat valuta
-Fiat money - Fiat geld
-Fiat System - Fiat-systeem
 FOMO - FOMO
 FUD - FUD
+Fiat System - Fiatsysteem
+Fiat currency - Fiatvaluta
+Fiat money - Fiatgeld
+Fractional reserve banking - fractioneel bankieren
 Fungibility - Uitwisselbaar(heid)
-Gatekeepers - Poortwachters
 GDP - BBP
-genesis block - genesis block
+Gatekeepers - Poortwachters
 Genesis-block - Genesis-block
 Gross domestic product - Bruto binnenlands product
+HODL - HODL
 Halvening - Halvening
-halving - halving
-halvings - halvings
 Hard Fork - Hard Fork
 Hash - Hash
 Hash Functions - Hash functies
 HashCash - HashCash
 Hashing - Hashing
-HODL - HODL
 Hot wallet - Hot wallet
 Hyperbitcoinization - Hyperbitcoinization
 Initial Coin Offering (ICO) - Initial Coin Offering (ICO)
@@ -100,9 +97,9 @@ Layer-2 Protocol - Laag-2 Protocol
 Ledger - Grootboek
 Legal tender - Wettig betaalmiddel
 Legal tender law - Wet op wettig betaalmiddel
+Lightning Wallets - Lightning Wallets
 Lightning network - Lightning netwerk
 Lightning transactions - Lightning transacties
-Lightning Wallets - Lightning Wallets
 Medium of Exchange - Ruilmiddel
 Memory pool - Memory pool
 Mempool - Mempool
@@ -111,24 +108,26 @@ Miners - Miners
 Mining - Mining
 Monetary Inflation - Monetaire Inflatie
 Monetary system - Monetaire systeem
+Multi-Signature - Multi-handtekening
+Multisig - Multisig
 Nakamoto - Nakamoto
 Nakamoto Consensus Mechanism - Nakamoto-consensusmechanisme
 Node - Node
 Nodes - Nodes
 Non custodial - Non-custodial
-Non-custodial - Non-custodial
 Non-Fungible Token (NFT) - Non-Fungible Token (NFT)
+Non-custodial - Non-custodial
 Off-chain - Off-chain
 On-Chain - On-chain
 Open Source - Open-source
 Open-Source - Open-source
 Orphan Block - Orphan Block
-P2P - Peer-to-Peer
+P2P - P2P
 Payment rails - Betaal infrastructuur
 Peer-to-Peer - Peer-to-Peer
 Peer-to-Peer Electronic Cash System - Peer-to-Peer Electronic Cash System
 Physical money - Fysiek geld
-Portability - Overdraagbaar(heid)
+Portability - Draagbaar(heid)
 Private keys - Privé sleutels
 Private-key - Privé sleutel
 Private-key cryptography - Cryptografie met privésleutels
@@ -139,24 +138,25 @@ Purchasing Power - Koopkracht
 Recovery Phrase - Herstelzin
 Relay Race - Estafette
 Representative money - Representatief geld
-satoshis - satoshis
+Reserve ratio - reservevereiste
+Satisfaction - voldoening
 Scarce - Schaars
 Scarcity - Schaars(heid)
 Seed - Seed
+Seedphrase - Seedphrase
+SegWit - SegWit
+Segregated Witness - Segregated Witness
 Self custodial - Self-custodial
 Self custody - Self-custody
 Self-Custodial - Self-custodial
-Self-custody - Self-custody
 Self-Sovereign - Zelf-soeverein
+Self-custody - Self-custody
 Sidechain - Sidechain
 Smart Contract - Smart Contract
-sound - eerlijk
 Sound Digital Money - Eerlijk digitaal geld
 Sound money - Eerlijk geld
 Stablecoin - Stablecoin
 Stablecoins - Stablecoins
-store of value - waardeopslag
-supply schedule - leveringsschema
 TCP/IP protocol - TCP/IP protocol
 The Lightning Network - Het Lightning Netwerk
 Third party - 3e partij
@@ -167,16 +167,44 @@ Tokenization - Tokenisering
 Trading Pair - Handelspaar
 Transactions - Transacties
 Two-Factor Authentication - 2-Factor authenticatie
-Unit of Account - Rekeneenheid
-unsound - oneerlijk
-Unsound Digital Money - Oneerlijk digitaal geld
-Unsound Money - Oneerlijk geld
 UTXO - UTXO
 UTXO - Unspent Transaction Output - UTXO - Unspent Transaction Output
 UTXOs - UTXOs
+Unbanked - Zonder bank
+Unit of Account - Rekeneenheid
+Unsound Digital Money - Oneerlijk digitaal geld
+Unsound Money - Oneerlijk geld
 Verifiable - Verifieerbaar(heid)
+Volatility - Volatiliteit
 Vouchers - Vouchers
 Wallet - Wallet
 Whale - Whale
 White Hat Hacker - White Hat Hacker
 Whitepaper - Whitepaper
+block - block
+blockchain - blockchain
+blockchains - blockchains
+communities - communities
+depositors - depositohouders
+digital signature - digitale handtekening
+double spending - dubbel spenderen
+e- Gold - e- Gold
+e-Gold - e-Gold
+genesis block - genesis block
+halving - halving
+halvings - halvings
+mined - gemined
+nonce - nonce
+plugin - plug-in
+plugins - plug-ins
+satisfaction - voldoening
+satoshis - satoshis
+sats - sats
+sound - eerlijk
+store of value - waardeopslag
+supply schedule - leveringsschema
+teacher - docent
+to control money - gelden beheren
+unsound - oneerlijk
+wallet - wallet
+who controls the money - wie beheert het geld
