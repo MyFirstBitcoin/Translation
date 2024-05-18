@@ -2,7 +2,7 @@
 
 Versión 2024 de nuestro programa insignia de 10 semanas que se ha implementado en todo el mundo. Una inmersión profunda en la historia, tecnología y el impacto global de Bitcoin.
 
-[Bitcoin Diploma - 2024 - Archivo PDF](https://github.com/MyFirstBitcoin/Bitcoin-Diploma---2024/blob/main/Bitcoin%20Diploma%20-%202024%20-%20PDF.pdf)
+[Diplomada de Bitcoin - 2024 - Archivo PDF](https://github.com/MyFirstBitcoin/Bitcoin-Diploma---2024/blob/main/Bitcoin%20Diploma%20-%202024%20-%20PDF.pdf)
 
 ## Acerca de
 
