@@ -2,7 +2,7 @@
 
 Versión 2024 de nuestro programa insignia de 10 semanas que se ha implementado en todo el mundo. Una inmersión profunda en la historia, tecnología y el impacto global de Bitcoin.
 
-[Diplomada de Bitcoin - 2024 - Archivo PDF](https://github.com/MyFirstBitcoin/Translation/blob/main/Mi%20Primer%20Bitcoin%20-%20Spanish/Espa%C3%B1ol%20-%20BD%202024.pdf)
+[Diplomada de Bitcoin - 2024 - Archivo PDF](https://github.com/MyFirstBitcoin/Translation/blob/801654e4483141f27ad4c53469854bf9053ab5af/Mi%20Primer%20Bitcoin%20-%20Espa%C3%B1ol/Espa%C3%B1ol%20-%20BD%202024.pdf)
 
 ## Acerca de
 
