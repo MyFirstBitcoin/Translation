@@ -2,7 +2,7 @@
 
 Versione 2024 del nostro programma di punta di 10 settimane implementato in tutto il mondo. Un'immersione profonda nella storia, tecnologia e impatto globale di Bitcoin.
 
-[Bitcoin Diploma - 2024 - file PDF]() 
+[Bitcoin Diploma - 2024 - file PDF](https://github.com/MyFirstBitcoin/Translation/blob/baaeaaed5b6a68b9df013aae47a22b884d0190c6/Il%20Mio%20Primo%20Bitcoin%20-%20Italian/Diploma%20Bitcoin%20-%202024.pdf) 
 
 
 ## Informazioni
