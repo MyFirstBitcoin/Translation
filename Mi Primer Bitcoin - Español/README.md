@@ -2,7 +2,7 @@
 
 Versión 2025 de nuestro programa insignia de 10 semanas que se ha implementado en todo el mundo. Una inmersión profunda en la historia, tecnología y el impacto global de Bitcoin.
 
-[Diplomado de Bitcoin - 2025 - Archivo PDF](https://github.com/MyFirstBitcoin/Translation/blob/658e83d28694f5b3f4d472517b5f0e6d27136a2c/Mi%20Primer%20Bitcoin%20-%20Espa%C3%B1ol/Espa%C3%B1ol%20-%20BD%202025.pdf)
+[Diplomado de Bitcoin - 2025 - Archivo PDF](https://github.com/MyFirstBitcoin/Translation/blob/c09203be7d134f081c4e0f68a4b5b4cd127f8542/Mi%20Primer%20Bitcoin%20-%20Espa%C3%B1ol/Espa%C3%B1ol%20-%20BD%202025.pdf)
 
 ## Acerca de
 
