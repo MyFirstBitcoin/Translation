@@ -10,7 +10,7 @@ We are continuously adding new languages to expand our reach. Feel free to explo
 
 ## Contributing Translations
 
-Your contributions are invaluable to our mission! If you are fluent in Bitcoin and another language and would like to contribute, please see our **Translator Collaboration** telegram group: [Request access from admin](https://t.me/+ovW4RGSeB4ZjZjRh). We welcome translations in any language.
+Your contributions are invaluable to our mission! If you are fluent in Bitcoin and another language and would like to contribute, please see our **Resources Translator Form**: [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScBCDMO2LCyGw4A0UzVi4by82-m1yod4Zk3rgTWt_Stre5fDw/viewform). We welcome translations in any language.
 
 ## Using the Translations
 
