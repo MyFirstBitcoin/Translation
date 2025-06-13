@@ -4,7 +4,7 @@ This is where **language meets impact**.
 
 Here, we’re breaking down barriers by making Bitcoin education accessible to everyone, everywhere – no matter what language they speak.
 
-📖 To expand our reach and increase communication, we've also launched a [Translation Wiki](https://network.myfirstbitcoin.io/c/translation/16) on our [Community Hub](https://network.myfirstbitcoin.io), where you'll find step-by-step guides to help you get started with contributing.
+📖 To expand our reach and increase communication, we've also launched a [Translation Wiki](https://network.myfirstbitcoin.io/t/start-here-the-bitcoin-diploma-translations/265) on our [Community Hub](https://network.myfirstbitcoin.io), where you'll find step-by-step guides to help you get started with contributing.
 
 💡 *Because open knowledge changes lives, and translations make it global.*
 
@@ -23,7 +23,7 @@ Each folder in this repository represents a **language**, and inside you’ll fi
 ## ✍️ Contributing Translations
 
 If you **speak Bitcoin and another language** – we need you.  
-Your contribution [Translation Wiki](https://network.myfirstbitcoin.io/c/translation/16) helps shape a world where education is open-source, communities are self-reliant, and knowledge is power.  
+Your contribution [Translation Wiki](https://network.myfirstbitcoin.io/t/start-here-the-bitcoin-diploma-translations/265) helps shape a world where education is open-source, communities are self-reliant, and knowledge is power.  
 🧱 Every word you translate is a building block for a better future.
 
 ---
