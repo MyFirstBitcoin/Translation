@@ -1,23 +1,47 @@
-# 🌍 My First Bitcoin - Translation Repository
+# 🌐 Welcome to the My First Bitcoin Translation Repository
 
-Welcome to the Translation Repository for My First Bitcoin! This repository houses translations of our materials, making them accessible to a diverse global audience. Our aim is to break language barriers by providing resources in a wide array of languages.
+This is where **language meets impact**.  
 
-## Repository Structure
+Here, we’re breaking down barriers by making Bitcoin education accessible to everyone, everywhere – no matter what language they speak.
 
-This repository is organized into folders, with each folder representing a different language. Inside these language-specific folders, you'll find translations of various subjects and materials. 
+📖 To expand our reach and increase communication, we've also launched a [Translation Wiki](https://network.myfirstbitcoin.io/c/translation/16) on our [Community Hub](https://network.myfirstbitcoin.io), where you'll find step-by-step guides to help you get started with contributing.
 
-We are continuously adding new languages to expand our reach. Feel free to explore the repository and discover the wealth of resources available in different languages.
+💡 *Because open knowledge changes lives, and translations make it global.*
 
-## Contributing Translations
+---
 
-Your contributions are invaluable to our mission! If you are fluent in Bitcoin and another language and would like to contribute, please see our **Resources Translator Form**: [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScBCDMO2LCyGw4A0UzVi4by82-m1yod4Zk3rgTWt_Stre5fDw/viewform). We welcome translations in any language.
+## 🗂️ Repository Structure
 
-## Using the Translations
+Each folder in this repository represents a **language**, and inside you’ll find translations of key materials like the **Bitcoin Diploma**.
 
-These translations are free to use, share, and distribute. They are intended as a resource for Bitcoin education globally. Please adhere to any licensing terms included with individual documents.
+🧩 We’re constantly adding new languages and materials – and we want this to be a collaborative, active space where anyone can contribute, ask questions, or share ideas.
 
-## Need Help or Want to Discuss?
+💬 Have feedback or want to chat? Join our conversation channels on the [Community Hub](https://network.myfirstbitcoin.io). You’re always welcome.
 
-For questions, assistance, or discussions about translations, please join our [Discussions Forum](https://github.com/orgs/MyFirstBitcoin/discussions)
+---
 
-Thank you for supporting global Bitcoin education and helping us make it accessible to everyone, everywhere!
+## ✍️ Contributing Translations
+
+If you **speak Bitcoin and another language** – we need you.  
+Your contribution [Translation Wiki](https://network.myfirstbitcoin.io/c/translation/16) helps shape a world where education is open-source, communities are self-reliant, and knowledge is power.  
+🧱 Every word you translate is a building block for a better future.
+
+---
+
+## 📥 Using the Translations
+
+All resources here are **free to use, share, and distribute** – globally.  
+📄 Please respect any specific licensing details included with each file.
+
+🤝 And know this: by using and sharing these translations [Translation Wiki](https://network.myfirstbitcoin.io/c/translation/16), you become an essential part of the change we’re building together.
+
+---
+
+## ❓ Questions? Feedback? Need Help?
+
+We've created a **dedicated space just for you**:  
+🧭 Our [Community Hub](https://network.myfirstbitcoin.io)
+
+Whether you have questions, ideas, suggestions, or even a translation crisis – this is where we come together, support each other, and shape the future of Bitcoin education.
+
+🚀 **[Join the Community Hub](https://network.myfirstbitcoin.io) and be part of something bigger.**
